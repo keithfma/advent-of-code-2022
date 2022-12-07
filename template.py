@@ -9,4 +9,9 @@ INPUT = Path('input.txt')
 
 
 if __name__ == '__main__':
-    pass
+
+    print(f'[SAMPLE]')
+    print(f'[REAL  ]')
+    print()
+    print(f'[SAMPLE]')
+    print(f'[REAL  ]')
