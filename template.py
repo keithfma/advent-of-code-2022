@@ -1,6 +1,7 @@
 """Advent of Code - Day ##
 """
 
+from __future__ import annotations
 from pathlib import Path
 
 
